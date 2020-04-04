@@ -1,0 +1,11 @@
+Wichtige Bugs
+
+- Gegenstand kann durch den Boden gehalten werden, wenn Gegenstand gegrabbt und noch nicht angehoben wurde
+- Laufen und Kameraführung funktioniert nicht parallel
+
+Kleine Bugs
+
+
+Einzigartige Bugs
+
+- es wurde schon ein Fehler beim Prozess des Aufhebens geworfen(Return von GetGrab_Object in RaycastSchiesser)
